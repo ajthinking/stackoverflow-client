@@ -1,6 +1,7 @@
 ## Stackoverflow: client :dizzy:
-
 Simplified clone of Stackoverflow. This repo holds the _Client_. [See server here](https://github.com/ajthinking/stackoverflow-server).
+
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/3457668/200120236-0c683bad-3fac-4c36-8907-6a688ba4b1ba.png">
 
 ## :rocket: Tech Stack
 
@@ -37,7 +38,7 @@ npm run storybook
 - Add heroku api url to SITE_NAME enviorement
 - Finally deploy client application
 
-## :crown: ¨Acknowledgments
+## :crown: Acknowledgments
 
 This is a continuation of [salihozdemir/stackoverflow-clone](https://github.com/salihozdemir/stackoverflow-clone)
 
